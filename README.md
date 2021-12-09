@@ -2,6 +2,14 @@
 
 Source: [Flutter Crash Course by Traversy Media](https://www.youtube.com/watch?v=1gDhl4leEzA) 
 
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/HomeScreen.jpeg)
+
+### Saved WordPairs Screen
+![Saved WordPair Screen](screenshots/SavedWordPairsScreen.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
